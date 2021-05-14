@@ -9,6 +9,7 @@ Just docker build . and use the container
 
 I recommend to mount  to /config to have your config available (copy advancedsettings etc over from existig) -> done
 
+it spins up a webinterface at port 80 where kodi is launched.
 
 
 If you like it, great!
